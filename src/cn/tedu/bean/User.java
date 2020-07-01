@@ -2,7 +2,7 @@ package cn.tedu.bean;
 
 /**
  * 用户实体类
- * @author wangyong
+ * @author wangyyyy
  * @date 2020/6/19 11:46
  */
 public class User {
@@ -12,9 +12,12 @@ public class User {
     private String nickname;
     private String email;
 
-    public int getId() {
+    /**
+     * modified by wangyyyy 2020-7-2
+     */
+/*    public int getId() {
         return id;
-    }
+    }*/
 
     public void setId(int id) {
         this.id = id;
