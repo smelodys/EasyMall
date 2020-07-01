@@ -16,7 +16,9 @@ import java.util.Map;
 public class EncodeFilter implements Filter {
     /**
      * 声明变量存储编码信息
+     * modified by wangyong 2020.7.1
      */
+
     String encode = null;
 
     @Override
