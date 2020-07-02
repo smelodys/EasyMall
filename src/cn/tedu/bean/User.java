@@ -13,7 +13,7 @@ public class User {
     private String email;
 
     /**
-     * modified by wangyyyy 2020-7-2
+     * modified by wangyyyy 2020-07-02
      */
 /*    public int getId() {
         return id;
