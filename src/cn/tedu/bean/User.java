@@ -15,9 +15,9 @@ public class User {
     /**
      * modified by wangyyyy 2020-07-02
      */
-/*    public int getId() {
+    public int getId() {
         return id;
-    }*/
+    }
 
     public void setId(int id) {
         this.id = id;
