@@ -24,6 +24,7 @@ public class UserDao {
         Connection conn = null;
         PreparedStatement ps = null;
         ResultSet rs = null;
+        System.out.println("wy:2020.8.8-test");
         try {
             //获取连接
             conn = JdbcUtils.getConnection();
